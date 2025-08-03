@@ -1,4 +1,4 @@
-' a program with window with double buffering in fullscreen mode
+' a program with window and double buffering in fullscreen mode
 SuperStrict
 
 Global imgSpaceShip:TImage

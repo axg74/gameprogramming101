@@ -1,4 +1,4 @@
-' ### a program with window with double buffering in fullscreen mode and scaling ###
+' ### a program with window and double buffering in fullscreen mode and scaling ###
 
 ' force the SuperStrict mode
 SuperStrict
